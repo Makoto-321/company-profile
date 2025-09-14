@@ -1,6 +1,5 @@
 ---
 title: 会社概要
-layout: default
 ---
 
 会社概要
