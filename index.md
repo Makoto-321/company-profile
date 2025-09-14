@@ -1,12 +1,13 @@
 ---
-titel: 会社概要
+title: 会社概要
 head:
   - '<meta name="google-site-verification" content="o4qnA7Qb1BHBGt7yHZlse246pyOdxb7zE2YsOhGS8nI" />'
 ---
 
 会社概要
 
-組織名：カケハビ 所在地：東京都渋谷区円山町
+組織名：カケハビ  
+所在地：東京都渋谷区円山町
 
 代表者：上村 諒
 
