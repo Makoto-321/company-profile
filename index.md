@@ -1,5 +1,7 @@
 ---
 titel: 会社概要
+head:
+  - '<meta name="google-site-verification" content="o4qnA7Qb1BHBGt7yHZlse246pyOdxb7zE2YsOhGS8nI" />'
 ---
 
 会社概要
