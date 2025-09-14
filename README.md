@@ -9,6 +9,7 @@
 ---
 
 プライバシーポリシー：https://makoto-321.github.io/privacy-policy/
+
 「習慣絶対作るラボ」利用規約：https://makoto-321.github.io/privacy-policy/
 
 © 2025 カケハビ
