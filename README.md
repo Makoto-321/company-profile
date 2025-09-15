@@ -1,3 +1,6 @@
+---
+title: 会社概要
+---
 # 会社概要
 
 **組織名**：カケハビ 
@@ -6,10 +9,10 @@
 **連絡先**：shukanapplication@gmail.com  
 **事業内容**：スマートフォンアプリの企画・開発・運営  
 
----
+---<br>
 
-プライバシーポリシー：https://makoto-321.github.io/privacy-policy/
+[プライバシーポリシー](https://makoto-321.github.io/privacy-policy/)
 
-「習慣絶対作るラボ」利用規約：https://makoto-321.github.io/terms-of-sevice/
+[「習慣絶対作るラボ」利用規約](https://makoto-321.github.io/terms-of-sevice/)
 
 © 2025 カケハビ
