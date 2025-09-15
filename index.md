@@ -11,5 +11,5 @@ title: 会社概要
 事業内容：スマートフォンアプリの企画・開発・運営<br>
 -----------<br>
 [プライバシーポリシー](https://makoto-321.github.io/privacy-policy/)<br>
-[「習慣絶対作るラボ」利用規約](https://makoto-321.github.io/terms-of-sevice/)<br>
+[「習慣絶対作るラボ」利用規約](https://makoto-321.github.io/terms-of-service/)<br>
 © 2025 カケハビ<br>
